@@ -1,0 +1,11 @@
+this is a test gift file forKOLENZO. the expectationis that at the end of this class
+we should have:
+1. Refreshed our memory on the last class
+
+2. Learnt about the git brances
+
+3. Open a git repository
+
+4. push our code from the local repositoryto the remote repository
+
+
