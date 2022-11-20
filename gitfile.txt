@@ -7,5 +7,6 @@ we should have:
 3. Open a git repository
 
 4. push our code from the local repositoryto the remote repository
+we are adding a new menu to our list 
 
 
