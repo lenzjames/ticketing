@@ -1,5 +1,9 @@
-this is a test gift file forKOLENZO. the expectationis that at the end of this class
+
+add second line
+
+this is a test gift file for KOLENZO. the expectationis that at the end of this class
 we should have:
+
 1. Refreshed our memory on the last class
 
 2. Learnt about the git brances
@@ -7,6 +11,9 @@ we should have:
 3. Open a git repository
 
 4. push our code from the local repositoryto the remote repository
+
 we are adding a new menu to our list 
 
 
+i am the lord thy God
+the man open the sea god opened the sea
