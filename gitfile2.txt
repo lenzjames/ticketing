@@ -1,1 +1,2 @@
 we are adding this file from CLI after our first git push/pull 
+In the begining was the world and the word was God.
