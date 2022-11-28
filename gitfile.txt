@@ -1,3 +1,4 @@
+another line added from GuI
 
 add second line
 
